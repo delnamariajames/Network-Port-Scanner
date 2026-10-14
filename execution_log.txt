@@ -1,0 +1,16 @@
+===== NETWORK PORT SCANNER =====
+Enter target IP address: 127.0.0.1
+Enter starting port: 8000
+Enter ending port: 8005
+Enter timeout (seconds): 1
+
+PORT       STATUS
+----------------------------
+8000       OPEN
+8001       CLOSED
+8002       CLOSED
+8003       CLOSED
+8004       CLOSED
+8005       CLOSED
+
+Scanning completed!
